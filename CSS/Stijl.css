@@ -1,0 +1,50 @@
+.body {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.hero {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container-fluid {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.d-flex {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.carousel-caption {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.top {
+    border-style: solid;
+    border-color: black;
+    margin-top: 10%;
+}
+
+.CTA {
+    height: 250%;
+}
+
+.border-neon {
+    background-color: transparent;
+    border: 2px solid rgb(0, 255, 42);
+    color: rgb(0, 255, 42);
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.border-neon:hover,
+.border-neon:focus {
+    -webkit-box-shadow: inset 0px 0px 8px 3px #ff94b8;
+    box-shadow: 0px 0px 10px 3px #dd054d, inset 0px 0px 10px 3px #ad0a41;
+    border-color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff94b8, 0 0 40px #ff94b8, 0 0 50px #ff94b8, 0 0 60px #ff94b8, 0 0 70px #ff94b8
+}
